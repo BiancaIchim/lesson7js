@@ -11,5 +11,5 @@ outputs:
   result:
     description: 'output of the sum of the 2 numbers'
 runs:
-  using: node24'
+  using: 'node24'
   main: 'dist/index.js'
